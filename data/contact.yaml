@@ -1,0 +1,20 @@
+---
+title: "CONTACT"
+background_image: "contact.png"
+#photo: "user-tie.png"
+description: "Very short text with a call to action."
+
+email:
+  address: "the.ballet.initiative@gmail.com"
+  link: false
+  icon: "fa-envelope"
+  icon-pack: "fas"
+
+social:
+- icon: "fa-instagram"
+  icon_pack: "fab"
+  link: "https://www.instagram.com/the_ballet_initiative/"
+- icon: "fa-twitter"
+  icon_pack: "fab"
+  link: "https://twitter.com/the_ballet_init"
+---
