@@ -4,9 +4,10 @@
 # Parameters used by HUGO to configure the site's global settings.
 preserveTaxonomyNames = "true"
 
-baseurl = "/"
+baseurl = "https://sad-curie-3720f1.netlify.com"
 languageCode = "en-us"
-title = "HUGO MyPortfolio Theme"
+#title = "HUGO MyPortfolio Theme"
+title = "the bALLet initiative"
 theme = "hugo-myportfolio-theme"
 
 
@@ -36,7 +37,7 @@ theme = "hugo-myportfolio-theme"
     # HOMEPAGE
     # Define the sections and the order in which they appear (MANDATORY)
     [params.homepage]
-        sections = [ "home", "about", "services", "calendar", "projects", "contact"]
+        sections = [ "home", "about", "services", "projects", "contact"]
 
     # ----------
 
@@ -55,7 +56,6 @@ theme = "hugo-myportfolio-theme"
         #        - "key" is in:
         #            - about
         #            - services
-        #            - calendar
         #            - projects (! - SPECIAL CASE: DIFFERENT MANAGEMENT THAN OTHER SECTIONS!)
         #            - contact
         #
@@ -70,13 +70,10 @@ theme = "hugo-myportfolio-theme"
         # (& must correspond to the section directories)
         [params.navigation.links]
             about    = "ABOUT"
-            services = "SERVICES"
-            calendar   = "CALENDAR"
+            services = "OVERVIEW"
             projects = [
-                { section = "articles", label = "ARTICLES" },
-                { section = "interviews", label = "INTERVIEWS" },
-                { section = "cal", label = "CALENDAR" },
-                { section = "services", label = "SERVICES" }
+                { section = "resources", label = "RESOURCES" }, 
+                { section = "interviews_articles", label = "INTERVIEWS & ARTICLES" }
             ]
             contact  = "CONTACT"
 
@@ -87,7 +84,7 @@ theme = "hugo-myportfolio-theme"
     [params.projects]
         # Values in "categories" must be the same as in navigation menu "projects".
         # (& must correspond to the section directories)
-        categories = [ "articles", "interviews", "cal" , "services"]
+        categories = [ "resources" , "interviews_articles"]
 
         # Post orders:
         # - list of posts:

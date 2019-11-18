@@ -774,6 +774,16 @@ min-height: 300px;
 
 /* PROJECTS */
 
+/* i added this -- want background*/
+.projects {
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+/* end */
+
 .projects hr {
     width: 100%;
 }

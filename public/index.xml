@@ -1,148 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HUGO MyPortfolio Theme</title>
+    <title>the bALLet initiative</title>
     <link>/</link>
-    <description>Recent content on HUGO MyPortfolio Theme</description>
+    <description>Recent content on the bALLet initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>what</title>
-      <link>/services/wha/</link>
-      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/services/wha/</guid>
-      <description>CLIENT: &amp;hellip;
-DESCRIPTION:
-&amp;hellip;
-ROLE:
-&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>blahhhhh</title>
-      <link>/articles/blahhhhh/</link>
-      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/blahhhhh/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor, ex sit amet condimentum placerat, neque dolor facilisis purus, in elementum ex urna at ante. Praesent turpis leo, auctor at justo vel, dignissim imperdiet tellus. Vivamus nec orci luctus, pharetra mauris eget, tristique ligula. Integer elit lorem, blandit ut eros et, efficitur aliquet dui. Aenean sed orci lorem. Nulla facilisi. Cras sollicitudin odio eu erat sollicitudin, sit amet volutpat risus condimentum.</description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>/services/test/</link>
-      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/services/test/</guid>
-      <description>CLIENT: &amp;hellip;
-DESCRIPTION:
-&amp;hellip;
-ROLE:
-&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>A Different Project</title>
-      <link>/interviews/the-awesome-company/other-project/</link>
+      <title>COMING SOON</title>
+      <link>/resources/cal/reviews/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/interviews/the-awesome-company/other-project/</guid>
-      <description>Not much more to say, but it is as a &amp;ldquo;bundle&amp;rdquo; post.</description>
-    </item>
-    
-    <item>
-      <title>A Simple Project</title>
-      <link>/interviews/the-awesome-company/simple-project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/interviews/the-awesome-company/simple-project/</guid>
-      <description>This is a simple project with not much to say or to show&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>A Weird Project</title>
-      <link>/interviews/company/single-project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/interviews/company/single-project/</guid>
+      <guid>/resources/cal/reviews/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>MOO MOO</title>
-      <link>/articles/blahhhhh/moo-moo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/blahhhhh/moo-moo/</guid>
-      <description>Description: Some food from Moo Moo Steak house in Saigon.</description>
-    </item>
-    
-    <item>
-      <title>MOO MOO</title>
-      <link>/articles/food/moo-moo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/food/moo-moo/</guid>
-      <description>Description: Some food from Moo Moo Steak house in Saigon.</description>
-    </item>
-    
-    <item>
-      <title>Some post</title>
-      <link>/articles/blahhhhh/no-photos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/blahhhhh/no-photos/</guid>
-      <description>Description: This is just a simple post with no photos&amp;hellip; Hence it doesn&amp;rsquo;t have to be a bundle and can be a simple &amp;ldquo;md&amp;rdquo; file.</description>
-    </item>
-    
-    <item>
-      <title>Some post</title>
-      <link>/articles/food/no-photos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/food/no-photos/</guid>
-      <description>Description: This is just a simple post with no photos&amp;hellip; Hence it doesn&amp;rsquo;t have to be a bundle and can be a simple &amp;ldquo;md&amp;rdquo; file.</description>
-    </item>
-    
-    <item>
-      <title>The One Project</title>
-      <link>/interviews/client-x/single-project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/interviews/client-x/single-project/</guid>
-      <description>This one was somehow related to food.</description>
-    </item>
-    
-    <item>
-      <title>Vietnam</title>
-      <link>/articles/blahhhhh/vietnam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/blahhhhh/vietnam/</guid>
-      <description>Description: Food from different places in Saigon.</description>
-    </item>
-    
-    <item>
-      <title>Vietnam</title>
-      <link>/articles/food/vietnam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/food/vietnam/</guid>
-      <description>Description: Food from different places in Saigon.</description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>/articles/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/articles/test/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor, ex sit amet condimentum placerat, neque dolor facilisis purus, in elementum ex urna at ante. Praesent turpis leo, auctor at justo vel, dignissim imperdiet tellus. Vivamus nec orci luctus, pharetra mauris eget, tristique ligula. Integer elit lorem, blandit ut eros et, efficitur aliquet dui. Aenean sed orci lorem. Nulla facilisi. Cras sollicitudin odio eu erat sollicitudin, sit amet volutpat risus condimentum.</description>
     </item>
     
   </channel>

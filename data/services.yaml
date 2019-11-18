@@ -1,22 +1,31 @@
 ---
-title: "SERVICES"
-link: "https://bookdown.org/yihui/blogdown/templates.html"
-background_image: "skills.jpg"
+title: "OVERVIEW"
+background_image: "picture.png"
 
 # List of services.
 # Optional "text", "icon_pack" & "list"
 services:
-- name: "Service 1"
-  icon: "fa-chalkboard-teacher"
+- name: "The Issue"
+  icon: "fa-database"
   icon_pack: "fas"
-  list: [ "One thing", "Another thing", "And some more ..." ]
-- name: "Service 2"
-  icon: "fa-window-restore"
+  text: "According to Dance Data Project:"
+  list: [ "In the 2018-2019 season, 81% of pieces produced were choreographed by men, while only 
+            approximately 17% were created by women", 
+          "70% of programs in the 2018-2019 season featured work choreographed exclusively by men",
+          "60% of the world premieres of the 2018-2019 season were male-choreographed mixedrepertory works."]
+- name: "#bALLetletsgo"
+  icon: "fa-hashtag"
   icon_pack: "fas"
-  text: "I am also able to do this."
-- name: "Service 3"
-  icon: "fa-concierge-bell"
+  text: "Use #bALLetletsgo to let ballet companies know how you feel about the issue."
+  list: ["Demand more work by women be showcased", 
+        "Post your excitement for upcoming/past perofmances that featured women choreographers",
+        "Promote women choreographers and have your voice heard!" ]
+- name: "Attend Performances"
+  icon: "fa-arrow-circle-right"
   icon_pack: "fas"
-  text: "And this:"
-  list: [ "Sub service 1", "Sub service 2" ]
+  text: "Change in Action."
+  #text: "Support women choreographerswork by attending their performances and showing ballet comapanies this is what you want to see."
+  list: [ "Support women choreographerswork by attending their performances.",
+          "Show ballet comapanies this is what you want to see.",
+        "See our calendar for upcoming performances,so you can go out and support these choreographers!"]
 ---

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on HUGO MyPortfolio Theme</title>
+    <title>Categories on the bALLet initiative</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on HUGO MyPortfolio Theme</description>
+    <description>Recent content in Categories on the bALLet initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,38 +11,11 @@
     
     
     <item>
-      <title>IT</title>
-      <link>/categories/it/</link>
+      <title>review</title>
+      <link>/categories/review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/it/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>art</title>
-      <link>/categories/art/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/art/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>food</title>
-      <link>/categories/food/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/food/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vietnam</title>
-      <link>/categories/vietnam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/vietnam/</guid>
+      <guid>/categories/review/</guid>
       <description></description>
     </item>
     
