@@ -4,7 +4,7 @@
 # Parameters used by HUGO to configure the site's global settings.
 preserveTaxonomyNames = "true"
 
-baseurl = "http://theballetinitiative.com"
+baseurl = "/"
 languageCode = "en-us"
 #title = "HUGO MyPortfolio Theme"
 title = "the bALLet initiative"
