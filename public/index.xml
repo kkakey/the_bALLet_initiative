@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>the bALLet initiative</title>
-    <link>/</link>
+    <link>/theballetinitiative.com/</link>
     <description>Recent content on the bALLet initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/theballetinitiative.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>COMING SOON</title>
-      <link>/resources/cal/reviews/</link>
+      <link>/theballetinitiative.com/resources/cal/reviews/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/resources/cal/reviews/</guid>
+      <guid>/theballetinitiative.com/resources/cal/reviews/</guid>
       <description></description>
     </item>
     
