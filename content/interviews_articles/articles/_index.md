@@ -5,12 +5,12 @@ subtitle = "What We're Reading"
 small_image = "Picture1.png"
 #small_image = "text.png"  #FIX THUMBNAIL IMAGES
 +++
-
 <center>
 
 <font size="4">
 <a href="https://www.broadwayworld.com/cleveland/article/Verb-Ballets-Celebrates-Female-Choreographers-20191220">"Verb Ballets Celebrates Female Choreographers"</a></font><br>
 <i>Broadway World</i>, article by: BWW News Desk, [20 DEC 2019]
+
 
 <font size="4">
 <a href="https://www.vogue.com.au/culture/features/the-australian-ballets-alice-topp-explores-gender-politics-in-the-world-of-dance/news-story/5f2bcfadc9a99dfc41da1b19815f2d44">"The Australian Ballet’s Alice Topp explores gender politics in the world of dance"</a></font><br>
@@ -27,7 +27,7 @@ small_image = "Picture1.png"
 
 <font size="4">
 <a href="http://sponsored.boston.com/hubweek/hubweek-change-maker-max-hodges">"HubWeek Change Maker: Meredith (Max) Hodges"</a></font><br>
-<i>HubWeek/i>, article by: Lindsay Gearheart , [10 DEC 2019]
+<i>HubWeek</i>, article by: Lindsay Gearheart, [10 DEC 2019]
 
 
 <font size="4">
@@ -54,7 +54,7 @@ small_image = "Picture1.png"
 <a href="https://www.broadwayworld.com/bwwclassical/article/Virginia-B-Toulmin-Foundation-Announces-2019-Ballet-Training-Grants-20191030">"Virginia B. Toulmin Foundation Announces 2019 Ballet Training Grants"</a></font><br>
 <i>Broadway World</i>, article by: BWW News Desk, [30 OCT 2019]
 
-<a href="https://www.pointemagazine.com/streetcar-named-desire-annabelle-lopez-ochoa-2641165926.html">"Annabelle Lopez Ochoa’s Feminist Reading of "A Streetcar Named Desire" Comes to Nashville"</a></font><br>
+<a href="https://www.pointemagazine.com/streetcar-named-desire-annabelle-lopez-ochoa-2641165926.html">"Annabelle Lopez Ochoa’s Feminist Reading of 'A Streetcar Named Desire' Comes to Nashville"</a></font><br>
 <i>Pointe Magazine</i>, article by: Hannah Foster [30 OCT 2019]
 
 
@@ -95,7 +95,7 @@ small_image = "Picture1.png"
 
 
 <font size="4">
-<a href="https://www.pointemagazine.com/ballet-listings-oct-14-20-2640974579.html">"Cathy Marston's 'Jane Eyre' Makes Its Joffrey Debut "</a></font><br>
+<a href="https://www.pointemagazine.com/ballet-listings-oct-14-20-2640974579.html">"Cathy Marston's 'Jane Eyre' Makes Its Joffrey Debut"</a></font><br>
 <i>Pointe Magazine</i>, article by: Chava Lansky, [15 OCT 2019]
 
 
@@ -163,7 +163,4 @@ small_image = "Picture1.png"
 <font size="4">
 <a href="https://www.broadwayworld.com/nashville/article/Female-Artists-Confront-Social-Injustice-Through-Ballet-20190916>">"Female Artists Confront Social Injustice Through Ballet"</a></font><br>
 <i>Broadway World</i>, article by: BWW News Desk, [16 SEPT 2019]
-
-
-
 </center>
