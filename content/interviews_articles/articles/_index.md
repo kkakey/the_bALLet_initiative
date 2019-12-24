@@ -54,11 +54,10 @@ small_image = "Picture1.png"
 <a href="https://www.broadwayworld.com/bwwclassical/article/Virginia-B-Toulmin-Foundation-Announces-2019-Ballet-Training-Grants-20191030">"Virginia B. Toulmin Foundation Announces 2019 Ballet Training Grants"</a></font><br>
 <i>Broadway World</i>, article by: BWW News Desk, [30 OCT 2019]
 
-<<<<<<< HEAD
+
 <a href="https://www.pointemagazine.com/streetcar-named-desire-annabelle-lopez-ochoa-2641165926.html">"Annabelle Lopez Ochoa’s Feminist Reading of "A Streetcar Named Desire Comes to Nashville"</a></font><br>
-=======
+
 <a href="https://www.pointemagazine.com/streetcar-named-desire-annabelle-lopez-ochoa-2641165926.html">"Annabelle Lopez Ochoa’s Feminist Reading of 'A Streetcar Named Desire' Comes to Nashville"</a></font><br>
->>>>>>> 4f8d706c53a37553ba8abee8d573f7a836aa5a5b
 <i>Pointe Magazine</i>, article by: Hannah Foster [30 OCT 2019]
 
 
